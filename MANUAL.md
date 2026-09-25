@@ -1,5 +1,7 @@
 # CV Agent — User Manual
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/emiliantimofei)
+
 An agent that sends your CV as a job application by email using the
 **Resend** API over HTTPS. It works even behind firewalls that block
 SMTP ports 25 / 465 / 587.
