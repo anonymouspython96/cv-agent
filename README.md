@@ -1,5 +1,7 @@
 # CV Agent
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/emiliantimofei)
+
 An agent that sends your CV as a job application by email, using the
 [Resend](https://resend.com) HTTP API. Works behind firewalls that block
 SMTP ports 25 / 465 / 587.
@@ -28,9 +30,3 @@ cp /path/to/your/CV.pdf cv/YourCV.pdf  # update CV_PATH in cv_agent.py if rename
 ./run.sh --check
 ./run.sh --dry-run --limit=1
 ./run.sh --limit=1
-
-## Support
-
-If this project saved you time, you can buy me a coffee:
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/emiliantimofei)
